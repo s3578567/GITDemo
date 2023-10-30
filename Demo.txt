@@ -1,1 +1,3 @@
-Hello There. this will be the second edit
+Hello There. this will be the second edit.
+
+I am super exisiting to learn GIT
